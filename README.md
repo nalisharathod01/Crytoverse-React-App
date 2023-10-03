@@ -32,6 +32,6 @@ Moment.js: A JavaScript library for parsing, manipulating, and displaying dates 
 Link to the project:
 [https://crytoverse-react-app.netlify.app/]
 
-Conclusion
+![image](https://github.com/nalisharathod01/Crytoverse-React-App/assets/72886289/740eee18-7675-4900-bf43-cc68b32011a7)
 
 The Cryptoverse React project is a great way to learn about cryptocurrency and explore the world of crypto.
