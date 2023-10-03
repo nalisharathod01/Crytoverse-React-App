@@ -30,7 +30,7 @@ Millify: A JavaScript library for formatting numbers
 Moment.js: A JavaScript library for parsing, manipulating, and displaying dates and times
 
 Link to the project:
-https://crytoverse-react-app.netlify.app/news
+[https://crytoverse-react-app.netlify.app/]
 
 Conclusion
 
