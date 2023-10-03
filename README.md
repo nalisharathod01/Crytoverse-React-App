@@ -28,10 +28,10 @@ Chart.js: A JavaScript charting library
 React Router DOM: A routing library for React
 Millify: A JavaScript library for formatting numbers
 Moment.js: A JavaScript library for parsing, manipulating, and displaying dates and times
-Link to the project
 
-[(https://crytoverse-react-app.netlify.app/news)]
+Link to the project:
+https://crytoverse-react-app.netlify.app/news
 
 Conclusion
 
-The Cryptoverse React project is a great way to learn about cryptocurrency and explore the world of crypto. It is also a great way to practice your React skills.
+The Cryptoverse React project is a great way to learn about cryptocurrency and explore the world of crypto.
